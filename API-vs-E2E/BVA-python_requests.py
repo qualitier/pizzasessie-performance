@@ -1,5 +1,9 @@
 import requests
 
+# execute in linux with `time python3 BVA-python_requests.py`
+
+# TIME 0.215 sec
+
 url = 'http://192.168.1.88:3002/api/calculate-score'
 
 test_data = {
