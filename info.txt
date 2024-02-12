@@ -1,3 +1,0 @@
-In linux, run commands with prefix `time` to get the time output. 
-
-Helpful for i.e. situations with headless vs headed comparison
