@@ -1,0 +1,1 @@
+No native support for running tests in parallel
